@@ -27,14 +27,17 @@
    
    
    
-    
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeethaHeshan&theme=algolia)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeethaHeshan&theme=buefy" width=400  height=400 >
+
  
-![](https://github-readme-stats.vercel.app/api?username=AbeethaHeshan&theme=algolia&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=AbeethaHeshan&theme=buefy&show_icons=true)
+
 
 
 [![Generic badge](https://img.shields.io/badge/A-V-<COLOR>.svg)](https://shields.io/)
+
+
 
 
 
