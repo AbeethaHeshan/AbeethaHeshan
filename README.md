@@ -1,5 +1,7 @@
+<img src=./asserts/Background.gif width=max-width  height=300>
+
 Hi. I'm Abeetha <br> 
-<img src=./asserts/Background.gif width=700  height=300>
+
 
 <h5>Operating Systems I use</h5>
 
@@ -8,11 +10,15 @@ Hi. I'm Abeetha <br>
 ![](./asserts/ubuntu.svg?style=flat&logo=ubuntu&logoColor=white)
 
 
-
+<h5>Tools</h5>
+    
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeethaHeshan&theme=algolia)
  
 ![](https://github-readme-stats.vercel.app/api?username=AbeethaHeshan&theme=algolia&show_icons=true)
+
+
+[![Generic badge](https://img.shields.io/badge/A-V-<COLOR>.svg)](https://shields.io/)
 
 
 
