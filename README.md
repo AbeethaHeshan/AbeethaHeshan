@@ -1,4 +1,4 @@
-<img src=./asserts/about.gif width=500  height=500>
+<img src=./asserts/about.gif width=500  height=500 align="right">
 
 Hi. I'm Abeetha <br> 
 
