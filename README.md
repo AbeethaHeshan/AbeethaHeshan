@@ -1,6 +1,6 @@
 <img src=./asserts/about.gif width=400  height=400 align="right" STYLE="position: absolute ; top:0;right:0">
 
-Hi. I'm Abeetha <br> 
+<h3>Hi. I'm Abeetha</h3> <br> 
 
 
 <h5>Operating Systems I use</h5>
@@ -19,6 +19,7 @@ Hi. I'm Abeetha <br>
    ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
     <br>
  <h5>Tools & Technologies</h5> 
+  
    ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
    ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
    ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
