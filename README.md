@@ -1,4 +1,4 @@
-<img src=./asserts/about.gif width=500  height=500 align="right">
+<img src=./asserts/about.gif width=400  height=400 align="right" STYLE="position: absolute ; top:0;right:0">
 
 Hi. I'm Abeetha <br> 
 
