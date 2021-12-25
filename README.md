@@ -1,4 +1,4 @@
-<img src=./asserts/Background.gif width=max-width  height=300>
+<img src=./asserts/Background.gif width=900  height=300>
 
 Hi. I'm Abeetha <br> 
 
