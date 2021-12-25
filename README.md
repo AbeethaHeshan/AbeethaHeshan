@@ -28,7 +28,7 @@
    
    
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeethaHeshan&theme=buefy" width=400  height=400 >
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeethaHeshan&theme=buefy"/>
 
  
 ![](https://github-readme-stats.vercel.app/api?username=AbeethaHeshan&theme=buefy&show_icons=true)
