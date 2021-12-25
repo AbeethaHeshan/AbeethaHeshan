@@ -1,5 +1,5 @@
 Hi. I'm Abeetha <br> 
-![](./asserts/Background.gif)
+<img src=./asserts/Background.gif width=700  height=300>
 
 <h5>Operating Systems I use</h5>
 
@@ -11,7 +11,7 @@ Hi. I'm Abeetha <br>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeethaHeshan&theme=algolia)
-
+ 
 ![](https://github-readme-stats.vercel.app/api?username=AbeethaHeshan&theme=algolia&show_icons=true)
 
 
