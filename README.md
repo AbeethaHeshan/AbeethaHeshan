@@ -1,6 +1,6 @@
 <img src=./asserts/about.gif width=400  height=400 align="right" STYLE="position: absolute ; top:0;right:0">
 
-<h3>Hi. I'm Abeetha</h3> <br> 
+<h2>Hello</h2>I'm Abeetha <br> 
 
 
 <h5>Operating Systems I use</h5>
@@ -18,7 +18,7 @@
    ![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
    ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
    
-    <br>
+ 
  <h5>Tools & Technologies</h5> 
   
    ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,6 +26,7 @@
    ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
    ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
    ![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+   ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
    
    
    ![](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
