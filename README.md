@@ -47,9 +47,6 @@
 
 
 
-[![Generic badge](https://img.shields.io/badge/A-V-<COLOR>.svg)](https://shields.io/)
-
-
 
 
 
