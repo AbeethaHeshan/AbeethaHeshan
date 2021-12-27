@@ -1,6 +1,7 @@
 <img src=./asserts/aboutA.gif width=450  height=400 align="right" STYLE="position: absolute ; top:0;right:0">
 
-<h2>Hello</h2>I'm Abeetha <br> 
+<h2>Hello
+  I'm Abeetha <br> 
 
 
 <h5>Operating Systems I use</h5>
