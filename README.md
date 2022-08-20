@@ -24,13 +24,6 @@
   
   
   ![](https://skills.thijs.gg/icons?i=js,html,css,react,figma,java,spring,mysql,hibernate,mongodb)
-  
-<img align="right" width=300 height=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeethaHeshan&theme=buefy"/> 
-  
-![](https://github-readme-stats.vercel.app/api?username=AbeethaHeshan&theme=buefy&show_icons=true)
-
-
-
 
 
 
