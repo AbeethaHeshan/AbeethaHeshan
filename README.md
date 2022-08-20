@@ -23,7 +23,7 @@
  <h5>Tools & Technologies</h5> 
   
   
-  ![](https://skills.thijs.gg/icons?i=js,html,css,react,figma,java,spring,mysql,hibernate)]
+  ![](https://skills.thijs.gg/icons?i=js,html,css,react,figma,java,spring,mysql,hibernate)
   
 <img align="right" width=300 height=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeethaHeshan&theme=buefy"/> 
   
